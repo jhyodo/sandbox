@@ -1,2 +1,2 @@
 #!/bin/bash
-revision = 26
+revision = 27
